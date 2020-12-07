@@ -34,6 +34,6 @@ class FakeSCPITektronix(FakeSCPI):
         'WFMO:YMU':str(ymult),
         'WFMO:YOF':str(yoff),
         '*IDN':'TEKTRONIX,MSO3014,234234,V.34.123',
-        'CH1:SCA':1}
+        'CH1:SCA':'1'}
 
 
